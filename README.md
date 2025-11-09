@@ -459,5 +459,6 @@ You:
 ![Agent](https://github.com/GTworx/Agents-with-LangGraph/blob/46334bd98706e6a5c49fdc90afbd017d4464cbeb/Screenshot%202025-11-09%20020536.png)
 
 ### Human
-![Human](Screenshot 2025-11-09 020604.png)
+![Human](https://github.com/GTworx/Agents-with-LangGraph/blob/53f56fad424b1e0f8f7e9ca7844dbe88053e5b13/Screenshot%202025-11-09%20020604.png)
+
 
