@@ -7,8 +7,7 @@ cooking-agent/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
-├── .env
-└── .env.example
+└── .env
 ```
 
 ---
@@ -453,4 +452,5 @@ Thread ID: cooking_session_1
 Type 'quit' to exit
 
 You:
+
 ```
