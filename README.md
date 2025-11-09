@@ -454,3 +454,9 @@ Type 'quit' to exit
 You:
 
 ```
+
+### Agent
+![Agent](Screenshot 2025-11-09 020536.png)
+
+### Human
+![Human](Screenshot 2025-11-09 020604.png)
