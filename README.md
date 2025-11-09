@@ -455,10 +455,11 @@ You:
 
 ```
 
-### Agent
-![Agent](https://github.com/GTworx/Agents-with-LangGraph/blob/46334bd98706e6a5c49fdc90afbd017d4464cbeb/Screenshot%202025-11-09%20020536.png)
+### Server
+![Server](https://github.com/GTworx/Agents-with-LangGraph/blob/46334bd98706e6a5c49fdc90afbd017d4464cbeb/Screenshot%202025-11-09%20020536.png)
 
-### Human
-![Human](https://github.com/GTworx/Agents-with-LangGraph/blob/53f56fad424b1e0f8f7e9ca7844dbe88053e5b13/Screenshot%202025-11-09%20020604.png)
+### Client
+![Client](https://github.com/GTworx/Agents-with-LangGraph/blob/53f56fad424b1e0f8f7e9ca7844dbe88053e5b13/Screenshot%202025-11-09%20020604.png)
+
 
 
